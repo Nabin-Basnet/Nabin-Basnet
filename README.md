@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nabin_Basnet&label=Profile%20views&color=0e75b6&style=flat" alt="Nabin_Basnet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nabin-Basnet&label=Profile%20views&color=0e75b6&style=flat" alt="Nabin-Basnet" /> </p>
 
 ---
 
@@ -18,13 +18,13 @@ I specialize in web development, creating user-friendly and efficient applicatio
 
 ### Connect with Me:
 <p align="left">
-  <a href="https://github.com/nabin1200" target="_blank">
+  <a href="https://github.com/Nabin-Basnet" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/github.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/nabin1200" target="_blank">
+  <a href="https://www.linkedin.com/in/Nabin-Basnet" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/linkedin.png"/>
   </a>
-  <a href="https://twitter.com/nabin1200" target="_blank">
+  <a href="https://twitter.com/Nabin-Basnet" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/twitter.png"/>
   </a>
 </p>
