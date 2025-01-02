@@ -74,5 +74,5 @@ I specialize in web development, creating user-friendly and efficient applicatio
 ---
 
 ### Badges:
-![GitHub followers](https://img.shields.io/github/followers/Babin-Basnet?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Nabin-Basnet?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Nabin-Basnet?style=social)
