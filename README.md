@@ -21,7 +21,7 @@ I specialize in web development, creating user-friendly and efficient applicatio
   <a href="https://github.com/Nabin-Basnet" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/github.png"/>
   </a>
-  <a href="https://https://www.linkedin.com/in/nabin-basnet-866a76288" target="_blank">
+  <a href="https://https://www.linkedin.com/in/nabin-basnet-866a76288/" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/linkedin.png"/>
   </a>
   <a href="https://twitter.com/Nabin-Basnet" target="_blank">
