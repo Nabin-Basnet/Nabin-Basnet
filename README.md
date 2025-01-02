@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabin1200&label=Profile%20views&color=0e75b6&style=flat" alt="nabin1200" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nabin_Basnet&label=Profile%20views&color=0e75b6&style=flat" alt="Nabin_Basnet" /> </p>
 
 ---
 
@@ -60,19 +60,19 @@ I specialize in web development, creating user-friendly and efficient applicatio
 
 ### GitHub Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabin1200&show_icons=true&locale=en&layout=compact" alt="nabin1200" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabin-Basnet&show_icons=true&locale=en&layout=compact" alt="Nabin-Basnet" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabin1200&show_icons=true&locale=en" alt="nabin1200" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nabin-Basnet&show_icons=true&locale=en" alt="Nabin-Basnet" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabin1200&" alt="nabin1200" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabin-Basnet&" alt="Nabin-Basnet" />
 </p>
 
 ---
 
 ### Badges:
-![GitHub followers](https://img.shields.io/github/followers/nabin1200?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/nabin1200?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Babin-Basnet?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Nabin-Basnet?style=social)
